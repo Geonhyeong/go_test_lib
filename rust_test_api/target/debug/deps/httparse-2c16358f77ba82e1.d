@@ -1,0 +1,12 @@
+D:\GH\go_test_lib\rust_test_api\target\debug\deps\libhttparse-2c16358f77ba82e1.rmeta: C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src/lib.rs C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src\iter.rs C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src\macros.rs C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src\simd\mod.rs C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src\simd\swar.rs C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src\simd\sse42.rs C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src\simd\avx2.rs C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src\simd\runtime.rs
+
+D:\GH\go_test_lib\rust_test_api\target\debug\deps\httparse-2c16358f77ba82e1.d: C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src/lib.rs C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src\iter.rs C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src\macros.rs C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src\simd\mod.rs C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src\simd\swar.rs C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src\simd\sse42.rs C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src\simd\avx2.rs C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src\simd\runtime.rs
+
+C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src/lib.rs:
+C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src\iter.rs:
+C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src\macros.rs:
+C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src\simd\mod.rs:
+C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src\simd\swar.rs:
+C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src\simd\sse42.rs:
+C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src\simd\avx2.rs:
+C:\Users\fools\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.0\src\simd\runtime.rs:

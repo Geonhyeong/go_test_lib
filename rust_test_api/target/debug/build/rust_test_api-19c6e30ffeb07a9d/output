@@ -1,0 +1,4 @@
+cargo:rustc-link-search=native=.
+cargo:rustc-link-lib=dylib=starforce
+cargo:rerun-if-changed=../proto/item.proto
+cargo:rerun-if-changed=../proto

@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package item;
 
-option go_package = "gihub.com/Geonhyeong/go_test_lib/proto/item;item";
+option go_package = "gihub.com/Geonhyeong/go_test_lib/proto;item";
 
 message Item {
     int32 id = 1;
